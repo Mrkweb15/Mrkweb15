@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 ---
 
 <div align="center">
-    <h2>💻 My Contributions</h2>
+    <h2>💻 Activities</h2>
 </div>
 
 <p align="center">
