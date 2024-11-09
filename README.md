@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 </div>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=mrkweb15&theme=dark&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j" width="100%"/>
+    <img src="https://streak-stats.demolab.com?user=mrkweb15&theme=maroongold&show_icons=true&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j" width="100%"/>
 </p>
 
 ---
