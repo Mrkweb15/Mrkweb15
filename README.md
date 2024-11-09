@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mr. K
 
-<!--
-**Mrkweb15/Mrkweb15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! Here’s a bit about me and my GitHub activity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Mr. K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrkweb15&show_icons=true&theme=dark)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkweb15&layout=compact&theme=dark)
+
+---
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mrkweb15&theme=dark)](https://git.io/streak-stats)
+
+---
+
+Thanks for visiting my profile! 😊
