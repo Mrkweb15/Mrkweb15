@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 </div>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=maroongold&show_icons=true&include_all_commits=true&count_private=true" width="49%" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkweb15&layout=compact&theme=maroongold&show_icons=true&langs_count=10" width="49%" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkweb15&layout=donut-vertical&theme=maroongold&show_icons=true&langs_count=10" width="49%" height="200">
 </p>
 
 ---
