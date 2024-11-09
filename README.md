@@ -15,8 +15,8 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 ## **📊 GitHub Stats and 🔥 Streak Stats**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrkweb15&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="49%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkweb15&layout=compact&theme=dark&langs_count=10" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrkweb15&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="49%" heigth="100px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkweb15&layout=compact&theme=dark&langs_count=10" width="49%" heigth="100px">
 </p>
 
 ---
