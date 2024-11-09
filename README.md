@@ -1,24 +1,24 @@
 # Hi there! 👋 I'm Mr. K
 
-Welcome to my profile! Here’s a bit about me and my GitHub activity.
+Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 
 ---
 
-## 📊 GitHub Stats
+## **📊 GitHub Stats**
 
-![Mr. K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrkweb15&show_icons=true&theme=dark)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkweb15&layout=compact&theme=dark)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mrkweb15&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=500"/>
 
 ---
 
-## 🔥 Streak Stats
+## **💻 Most Used Languages**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mrkweb15&theme=dark)](https://git.io/streak-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkweb15&layout=compact&theme=dark&langs_count=10&card_width=500"/>
+
+---
+
+## **🔥 Streak Stats**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mrkweb15&theme=dark&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&card_width=500)](https://git.io/streak-stats)
 
 ---
 
