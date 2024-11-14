@@ -24,4 +24,4 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
     <img src="https://streak-stats.demolab.com?user=mrkweb15&theme=maroongold&show_icons=true&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j" width="100%"/>
 </p>
 
-Thanks for visiting my profile! 😊
+Kupal ka Ω
