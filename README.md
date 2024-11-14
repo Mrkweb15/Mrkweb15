@@ -24,6 +24,7 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
      <p>Run PowerShell as Administrator and copy the code and paste it to your PS:    <span onclick="copyToClipboard(this)" style="cursor: pointer; color: green; padding: 5px; border-radius: 4px; text-decoration: underline;">
            irm tinyurl.com/mrkwinutil | iex
     </span></p>
+    <p>If you have to Provide Feedback about the utility, please do as you wish</p>
 </p>
 
 
