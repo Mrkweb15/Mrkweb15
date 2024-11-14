@@ -28,7 +28,7 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 <p align="center">
     <img src="utility.png" alt="Utility Tool Logo">
     <h4>Try my Windows Utility tool</h4>
-    <p>Run PowerShell as Administrator and click the code below to copy: <span onclick="copyToClipboard(this)" style="cursor: pointer; color: white; padding: 5px; border-radius: 4px;">
+    <p>Run PowerShell as Administrator and copy the code and paste it to your PS: <span onclick="copyToClipboard(this)" style="cursor: pointer; color: white; padding: 5px; border-radius: 4px;">
         irm tinyurl.com/mrkwinutil | iex
     </span></p>
 </p>
