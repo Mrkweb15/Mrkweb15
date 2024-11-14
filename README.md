@@ -5,12 +5,6 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 ---
 
 <div align="center">
-    <h2>💻 Activities</h2>
-</div>
-
----
-
-<div align="center">
  <h2>📊 GitHub Stats and 🔥 Most Used Languagee</h2>
 </div>
 <p align="center">
@@ -20,6 +14,11 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 
 ---
 
+<div align="center">
+    <h2>💻 Activities</h2>
+</div>
+
+---
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=mrkweb15&theme=maroongold&show_icons=true&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j" width="100%"/>
