@@ -11,8 +11,7 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 </div>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mrkweb15&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true" width="57%" height="300" style="margin-top: 0;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkweb15&layout=donut&theme=maroongold&show_icons=true&count_private=true&langs_count=10" width="39%" height="300" style="margin-top: 0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkweb15&layout=donut&theme=maroongold&show_icons=true&count_private=true&langs_count=10" width="100%" height="300" style="margin-top: 0;">
 </p>
 
 
