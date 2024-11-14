@@ -14,11 +14,6 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
     <img src="https://streak-stats.demolab.com?user=mrkweb15&theme=maroongold&show_icons=true&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j" width="100%"/>
 </p>
 
-
-<div align="center" style="position: -webkit-sticky; position: sticky; top: 55px; background: #4B0000; z-index: 1; padding: 5px;">
- <h2>📊 GitHub Stats and 🔥 Most Used Languages</h2>
-</div>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkweb15&layout=donut&theme=maroongold&show_icons=true&count_private=true&langs_count=10" width="100%" style="margin-top: 0;">
 </p>
