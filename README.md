@@ -30,10 +30,6 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
     <pre>
         <code>irm tinyurl.com/mrkwinutil | iex</code>
     </pre>
-    <p>Click the code to copy:</p>
-    <pre>
-        <code>irm tinyurl.com/mrkwinutil | iex</code>
-    </pre>
     <p>If you have any Feedback about the utility, let me know</p>
 </p>
 
