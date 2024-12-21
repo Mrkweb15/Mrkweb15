@@ -26,8 +26,8 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
     <img src="preview.png" alt="Utility Tool Logo" style="width: 99%; border-radius: 5px;">
     <h4>Try my Windows Utility tool</h4>
     <p>The App Section is currently under development</p>
-    <p>Run PowerShell as Administrator and copy the code below:</p>
-        <code>irm tinyurl.com/mrkwinutil | iex</code>
+    <p>Run PowerShell as Administrator and copy the code <code>irm tinyurl.com/mrkwinutil | iex</code> and paste it to PS</p>
+        
     <p>If you have any Feedback about the utility, let me know</p>
 </p>
 
