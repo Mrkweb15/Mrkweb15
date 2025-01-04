@@ -1,7 +1,5 @@
 
 
-
-
 <div style=" background: #800000; padding: 5px;">
 <div align="center" style="position: -webkit-sticky; position: sticky; top: 0; background: #4B0000; z-index: 1; padding: 5px;">
 <h2> # Hi there KUPAL! 👋 I'm Mr. K </h2>
