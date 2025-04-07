@@ -34,11 +34,11 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
     <p>The App Section is currently under development</p>
     <p>Run PowerShell or CMD as Administrator and copy the code <code>irm tinyurl.com/mrkwinutil | iex</code> and paste it to PS or CMD</p>
     <p>If you have any Feedback about the utility, let me know</p>
+    <img src="preview.png" alt="Utility Tool Logo" style="width: 99%; border-radius: 5px;">
     **Code**
     ```bash
-   https://github.com/Mrkweb15/team-dashboard-template
+   irm tinyurl.com/mrkwinutil | iex
 
-    <img src="preview.png" alt="Utility Tool Logo" style="width: 99%; border-radius: 5px;">
 </p>
 
 
