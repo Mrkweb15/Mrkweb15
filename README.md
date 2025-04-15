@@ -9,6 +9,7 @@
 <div align="center" style="position: -webkit-sticky; position: sticky; top: 0; background: #4B0000; z-index: 1; padding: 5px;">
 <h2> # Hi there KUPAL! 👋</h2>
 
+Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 
 <p align="center">
   <h2 align="center">My Portfolio</h2>
@@ -23,7 +24,6 @@
 </p>
 
 
-Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 </div>
 
 <div align="center" style="position: -webkit-sticky; position: sticky; top: 55px; background: #4B0000; z-index: 1; padding: 5px;">
