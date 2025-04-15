@@ -10,6 +10,19 @@
 <h2> # Hi there KUPAL! 👋</h2>
 
 
+<p align="center">
+  <h2 align="center">My Portfolio</h2>
+  <p align="center">
+    <a href="https://mrkweb15.github.io/Portfolio/">
+      <strong>Visit Portfolio Website »</strong>
+    </a>
+  </p>
+  <p align="center">
+    Showcasing my projects, skills, and experience
+  </p>
+</p>
+
+
 Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 </div>
 
@@ -38,16 +51,5 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
     <pre>powershell: irm tinyurl.com/mrkwinutil | iex</pre>
 </p>
 
-<p align="center">
-  <h2 align="center">My Portfolio</h2>
-  <p align="center">
-    <a href="https://mrkweb15.github.io/Portfolio/">
-      <strong>Visit Portfolio Website »</strong>
-    </a>
-  </p>
-  <p align="center">
-    Showcasing my projects, skills, and professional experience
-  </p>
-</p>
 
 </div>
