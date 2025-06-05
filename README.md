@@ -55,8 +55,3 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 </div>
 
 
-
-
-
-
-https://drive.google.com/file/d/1k84tpqF2KPQU2f7khxF8G4v8u12TPHQC/view?usp=drivesdk
