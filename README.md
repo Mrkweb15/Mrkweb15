@@ -31,10 +31,6 @@ Welcome to my GitHub profile! Here’s an overview of my stats and activity.
 </div>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=mrkweb15&theme=maroongold&show_icons=true&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j" width="100%" style="border: 2px solid white; border-radius: 10px"/>
-</p>
-
-<p align="center">
     <img width=100% src='https://github-readme-stats.vercel.app/api?username=mrkweb15&theme=maroongold&show_icons=true&hide_border=false&count_private=true' />
 </p>
 
