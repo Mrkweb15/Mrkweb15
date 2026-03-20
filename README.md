@@ -13,7 +13,7 @@
 <p align="center">
   <h2 align="center">My Portfolio</h2>
   <p align="center">
-    <a href="https://mrkweb15.github.io/Portfolio/">
+    <a href="https://markesquivel.page.gd">
       <strong>Check it out »</strong>
     </a>
   </p>
